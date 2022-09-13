@@ -1,8 +1,3 @@
-# Monstera-landing-page
-
-[website link]()
-
-
 Hi This is Ravi K R from Karnataka, welcome to my git profile.
 
 # Project Name : 6. Monstera-landing-page ![](https://img.shields.io/badge/Project-6-green)
