@@ -24,6 +24,6 @@ This is a Simple Monstera-landing-page, I have built it from scratch using HTML 
 
 [Live Link !](https://tangerine-mooncake-1e2b4e.netlify.app/)
 
-![Web Site Image](./thumbnail.png)
+![Web Site Image](./screencapture-tangerine-mooncake-1e2b4e-netlify-app-2022-09-13-11_11_07.png)
 
 #### This project took around 4 hours to complete.
